@@ -1,1 +1,1 @@
-web:    java -cp target/classes:target/dependency/* com.gunsoutsoftware.squabble.server.bootstrap.Main
+web:    java -cp server/target/classes:server/target/dependency/* com.gunsoutsoftware.squabble.server.bootstrap.Main
